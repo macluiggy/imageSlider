@@ -1,1 +1,1 @@
-An image slider, where you can move to the next image or the previous one
+<h4> An image slider, where you can move to the next image or the previous one </h4>
