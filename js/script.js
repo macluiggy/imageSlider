@@ -49,5 +49,4 @@
         title.html(thisTitle);
         currentImage.attr('src', thisImage);
     };
-}())
-
+}());
