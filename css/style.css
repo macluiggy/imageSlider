@@ -1,0 +1,16 @@
+#container {
+    text-align: center;
+}
+
+#images {
+    border: solid;
+    width: 300px;
+    height: 300px;
+    margin: auto;
+}
+
+#current {
+    max-width: 100%;
+    max-height: 100%;
+    z-index: 0;
+}
