@@ -3,17 +3,17 @@
         {
             id: 1,
             img: 'img/foto1.jpg',
-            title: 'Trigo'
+            title: 'Tomame haci como que no me doy cuenta'
         },
         {
             id: 2,
             img: 'img/foto2.jpg',
-            title: 'Casa con arbol'
+            title: 'Hojas rojas'
         },
         {
             id: 3,
             img: 'img/foto3.jpg',
-            title: 'Casa con lago'
+            title: 'Liquido rojo'
         }
     ]
 
