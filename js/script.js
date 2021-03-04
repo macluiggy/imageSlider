@@ -41,7 +41,7 @@
 
     function nextImage() {
         current++
-        if (current > content.length- 1) {
+        if (current > content.length - 1) {
             current = 0;
         }
         let thisImage = content[current].img;
